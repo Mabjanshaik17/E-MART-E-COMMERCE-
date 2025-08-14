@@ -1,2 +1,8 @@
-# E-MART-E-COMMERCE-
-Smart E-Commerce is a modern online shopping platform integrating dynamic product listings, secure checkout, and intelligent recommendations. Built with responsive design and optimized for user experience, it offers seamless navigation, real-time updates, and scalable backend support
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
